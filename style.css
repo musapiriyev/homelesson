@@ -1,0 +1,90 @@
+body{
+    margin:0;
+    padding: 0;
+    background: rgb(77, 74, 74);
+    width: 1853px;
+    height: 700px;
+}
+
+header{
+    width: 80%;
+    border: solid 1px white;
+    text-align: center;
+    background:white;
+    margin: auto;
+    margin-top: 10px;
+}
+nav{  
+    width: 80%;
+    border: solid 1px white;
+    text-align: center;
+    background:white;
+    margin: auto;
+    margin-top:10px;
+}
+section{
+   
+    width: 60%;
+    border: solid 1px white;
+    text-align: center;
+    background:white;
+    margin:auto;
+    margin-top:10px;
+    height: 50%;
+    float: left;
+    margin-left: 10%;
+    margin-top:20px;
+    display: block;
+    font-size: 1.5em;
+}
+footer{
+    width: 78%;
+    border: solid 1px white;
+    text-align: center;
+    background:white;
+    margin: auto;
+    padding: 20px;
+    margin-top: 400px;
+    font-size: 1.5em;
+}
+aside{
+margin-top:20px;
+margin-right: 185px; 
+    display: block;
+    float:right;
+    width: 15%;
+    border: solid 1px white;
+    text-align: center;
+    background:white;
+  height:50% ;  
+font-size: 1.5em;
+margin-bottom: 20px;
+}
+article{
+    width: 90%;
+    margin: auto;
+    height: 60%;
+    background-color:   rgb(77, 74, 74);
+    color:white;
+    margin-top:30px;
+}
+
+p{
+    color:black;
+    border: solid 1px white;
+    widows: 90%;
+    height: 20%;
+    margin: auto;
+    background-color:white;
+    margin-top: 20px;
+}
+h5{
+    color:black;
+    border: solid 1px white ;
+    widows: 90%;
+    height: 20%;
+    margin: auto;
+    background-color:white;
+    margin-top: 30px;
+
+}
